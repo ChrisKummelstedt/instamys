@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'devise'
 gem 'simple_form'
 gem 'haml'
 gem 'haml-rails'
